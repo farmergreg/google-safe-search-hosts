@@ -21,7 +21,7 @@ tempfile='supported-domains'
 output='hosts'
 
 # IP Address for Google Safe Search
-IPSix='::FFFF:D8EF:2678'
+IPSix='2001:4860:4802:32::78'
 IPFour='216.239.38.120'
 
 
