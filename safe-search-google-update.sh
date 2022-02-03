@@ -21,9 +21,12 @@ tempfile='supported-domains'
 output='hosts'
 
 # IP Address for Google Safe Search
-IPSix='2001:4860:4802:32::78'
-IPFour='216.239.38.120'
-
+IPSix=`dig forcesafesearch.google.com AAAA +short`
+IPFour=`dig forcesafesearch.google.com A +short`
+if [ -z "$IPSix" || -z "$IPFour" ]; then
+        echo "Getting IP address for forcesafesearch.google.com failed"
+	exit 1
+fi
 
 #Fetch a current list of Google owned domains
 code=$(curl --silent --write-out %{http_code} --output $tempfile $hostURLs)
