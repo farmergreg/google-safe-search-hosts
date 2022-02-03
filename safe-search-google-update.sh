@@ -21,9 +21,9 @@ tempfile='supported-domains'
 output='hosts'
 
 # IP Address for Google Safe Search
-IPSix=`dig forcesafesearch.google.com AAAA +short`
-IPFour=`dig forcesafesearch.google.com A +short`
-if [ -z "$IPSix" || -z "$IPFour" ]; then
+IPSix=$(dig forcesafesearch.google.com AAAA +short)
+IPFour=$(dig forcesafesearch.google.com A +short)
+if [ -z "$IPSix" ] || [ -z "$IPFour" ]; then
         echo "Getting IP address for forcesafesearch.google.com failed"
 	exit 1
 fi
