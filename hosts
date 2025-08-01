@@ -1,5 +1,5 @@
 # Google Safe Search Host List
-# Generated on Thu 03 Feb 2022 08:38:10 AM CST
+# Generated on Fri Aug  1 08:34:00 CDT 2025
 # From: https://www.google.com/supported_domains
 
 #2001:4860:4802:32::78 forcesafesearch.google.com
@@ -10,7 +10,6 @@
 2001:4860:4802:32::78 google.ae
 2001:4860:4802:32::78 google.com.af
 2001:4860:4802:32::78 google.com.ag
-2001:4860:4802:32::78 google.com.ai
 2001:4860:4802:32::78 google.al
 2001:4860:4802:32::78 google.am
 2001:4860:4802:32::78 google.co.ao
@@ -117,7 +116,6 @@
 2001:4860:4802:32::78 google.ml
 2001:4860:4802:32::78 google.com.mm
 2001:4860:4802:32::78 google.mn
-2001:4860:4802:32::78 google.ms
 2001:4860:4802:32::78 google.com.mt
 2001:4860:4802:32::78 google.mu
 2001:4860:4802:32::78 google.mv
@@ -185,7 +183,6 @@
 2001:4860:4802:32::78 google.co.uz
 2001:4860:4802:32::78 google.com.vc
 2001:4860:4802:32::78 google.co.ve
-2001:4860:4802:32::78 google.vg
 2001:4860:4802:32::78 google.co.vi
 2001:4860:4802:32::78 google.com.vn
 2001:4860:4802:32::78 google.vu
@@ -200,7 +197,6 @@
 2001:4860:4802:32::78 www.google.ae
 2001:4860:4802:32::78 www.google.com.af
 2001:4860:4802:32::78 www.google.com.ag
-2001:4860:4802:32::78 www.google.com.ai
 2001:4860:4802:32::78 www.google.al
 2001:4860:4802:32::78 www.google.am
 2001:4860:4802:32::78 www.google.co.ao
@@ -307,7 +303,6 @@
 2001:4860:4802:32::78 www.google.ml
 2001:4860:4802:32::78 www.google.com.mm
 2001:4860:4802:32::78 www.google.mn
-2001:4860:4802:32::78 www.google.ms
 2001:4860:4802:32::78 www.google.com.mt
 2001:4860:4802:32::78 www.google.mu
 2001:4860:4802:32::78 www.google.mv
@@ -375,7 +370,6 @@
 2001:4860:4802:32::78 www.google.co.uz
 2001:4860:4802:32::78 www.google.com.vc
 2001:4860:4802:32::78 www.google.co.ve
-2001:4860:4802:32::78 www.google.vg
 2001:4860:4802:32::78 www.google.co.vi
 2001:4860:4802:32::78 www.google.com.vn
 2001:4860:4802:32::78 www.google.vu
@@ -390,7 +384,6 @@
 216.239.38.120 google.ae
 216.239.38.120 google.com.af
 216.239.38.120 google.com.ag
-216.239.38.120 google.com.ai
 216.239.38.120 google.al
 216.239.38.120 google.am
 216.239.38.120 google.co.ao
@@ -497,7 +490,6 @@
 216.239.38.120 google.ml
 216.239.38.120 google.com.mm
 216.239.38.120 google.mn
-216.239.38.120 google.ms
 216.239.38.120 google.com.mt
 216.239.38.120 google.mu
 216.239.38.120 google.mv
@@ -565,7 +557,6 @@
 216.239.38.120 google.co.uz
 216.239.38.120 google.com.vc
 216.239.38.120 google.co.ve
-216.239.38.120 google.vg
 216.239.38.120 google.co.vi
 216.239.38.120 google.com.vn
 216.239.38.120 google.vu
@@ -580,7 +571,6 @@
 216.239.38.120 www.google.ae
 216.239.38.120 www.google.com.af
 216.239.38.120 www.google.com.ag
-216.239.38.120 www.google.com.ai
 216.239.38.120 www.google.al
 216.239.38.120 www.google.am
 216.239.38.120 www.google.co.ao
@@ -687,7 +677,6 @@
 216.239.38.120 www.google.ml
 216.239.38.120 www.google.com.mm
 216.239.38.120 www.google.mn
-216.239.38.120 www.google.ms
 216.239.38.120 www.google.com.mt
 216.239.38.120 www.google.mu
 216.239.38.120 www.google.mv
@@ -755,7 +744,6 @@
 216.239.38.120 www.google.co.uz
 216.239.38.120 www.google.com.vc
 216.239.38.120 www.google.co.ve
-216.239.38.120 www.google.vg
 216.239.38.120 www.google.co.vi
 216.239.38.120 www.google.com.vn
 216.239.38.120 www.google.vu
